@@ -9,3 +9,5 @@ bootstrap and font-awesome.
 - `cd app && npm install`
 - `npm run sass:build` to build scss into appropriate css for templates to use
 - `npm run sass:watch` to watch sass files for changes
+- Create a `.env` file and make sure to populate `SECRET_KEY` with your generated key
+- 
